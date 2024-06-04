@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="images/Artboard.jpg" alt="Project logo"></a>
+ <!-- <img src="images/Artboard.jpg" alt="Project logo"></a> -->
 </p>
 <p align="center">
  <h2 align="start">디자인과 개발을 소통으로 연결하는 | MJ 👋</h2>
